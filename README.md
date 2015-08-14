@@ -5,6 +5,7 @@
 ##Available Estimators
 
 * Maximum Likelihood: ``MaximumLikelihoodEntropyEstimator``, ``MLEntropyEstimator`` or ``MLEE``
+* Miller-Maddow Bias Correction: ``MillerMaddowBiasCorrectedEntropyEstimator``, ``MillerMaddowBiasCorrected``, ``MMBCEE``
 * **WORK IN PROGRESS**
 
 ##Basic Usage

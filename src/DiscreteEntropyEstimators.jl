@@ -19,6 +19,9 @@ export
     MaximumLikelihoodEntropyEstimator,
     MLEntropyEstimator,
     MLEE,
+    MillerMaddowBiasCorrectedEntropyEstimator,
+    MillerMaddowBiasCorrected,
+    MMBCEE,
 
     # convenient functions
     entropy_ml
