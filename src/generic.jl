@@ -16,7 +16,7 @@ type Samples{T<:Integer}
     s::Vector{T}
 end
 
-Observations = Union{Frequencies, Samples}
+Observations = Union(Frequencies, Samples)
 
 ###########################################################
 #
